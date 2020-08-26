@@ -7,13 +7,12 @@
 * audit.py
 * data.py
 * schema.py
-* sample.py
+
+### Sample OSM File
 * sample.osm
 
 ### Python Practice Files
 * tags.py
 * users.py
 * mapparser.py
-
-### OSM File
-* osm_sample
+* sample.py
