@@ -3,10 +3,12 @@
 ### Project Overview
 * Data_Wrangling_Elisa_Marchione.html
 
-### Python Project Files
+### Project Files
 * audit.py
 * data.py
 * schema.py
+* sample.py
+* sample.osm
 
 ### Python Practice Files
 * tags.py
